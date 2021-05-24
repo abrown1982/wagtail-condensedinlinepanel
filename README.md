@@ -6,6 +6,11 @@ may be hundreds of items in the panel.
 
 ![Screenshot](screenshot.png)
 
+## Fork changes
+Simply integrating 2 fixes:
+ - https://github.com/wimfeijen/wagtail-condensedinlinepanel/commit/b2e71b46ac195dd5eaca350a4b9b2262680c1c39
+ - https://github.com/wagtail/wagtail-condensedinlinepanel/issues/79#issuecomment-739478895
+
 ## Features
 
  - Fast, react-based UI which hides away forms that aren't being used

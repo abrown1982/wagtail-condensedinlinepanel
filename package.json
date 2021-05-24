@@ -1,6 +1,6 @@
 {
   "name": "wagtail-condensedinlinepanel",
-  "version": "1.0.0",
+  "version": "1.0.0a",
   "author": "Karl Hobley <karlhobley10@gmail.com>",
   "license": "BSD",
   "devDependencies": {
